@@ -60,19 +60,28 @@ Now we determine what JMeter elements in this test. The elements are
 <p float="left">
     <img src="https://user-images.githubusercontent.com/57935394/182824494-d9c9675a-c386-4e96-a709-194fffda6b91.PNG" width="600" />
   </p>
+  
 - View results in Table
+
 <p float="left">
     <img src="https://user-images.githubusercontent.com/57935394/182824485-52f914d6-f959-48be-919a-178c76de503c.PNG" width="600" />
   </p>
+  
 - Graph results
+
 <p float="left">
     <img src="https://user-images.githubusercontent.com/57935394/182824479-d3c20d9c-63a5-4f0c-9684-ce3c593df93c.PNG" width="600" />
   </p>
+  
 - Assertion results
+
 <p float="left">
     <img src="https://user-images.githubusercontent.com/57935394/182824500-9b533895-9bf9-4535-9cb0-6944211ef566.PNG" width="600" />
   </p>
+  
 - Active threads over time
+
+
 <p float="left">
     <img src="https://user-images.githubusercontent.com/57935394/182824490-d2154df8-d21a-40c4-8ef2-85f8cf675a03.PNG" width="600" />
   </p>
